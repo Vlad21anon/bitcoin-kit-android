@@ -16,7 +16,7 @@ afterEvaluate {
 }
 
 android {
-    namespace 'io.horizontalsystems.ecashkit'
+    namespace 'io.dexnet.ecashkit'
     compileSdk 34
 
     defaultConfig {

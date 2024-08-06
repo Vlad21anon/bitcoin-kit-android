@@ -16,7 +16,7 @@ afterEvaluate {
 }
 
 android {
-    namespace 'io.horizontalsystems.bitcoincore'
+    namespace 'io.dexnet.bitcoincore'
     compileSdk 34
 
     defaultConfig {

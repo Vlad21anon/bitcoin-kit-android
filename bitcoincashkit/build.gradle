@@ -16,7 +16,7 @@ afterEvaluate {
 }
 
 android {
-    namespace 'io.horizontalsystems.bitcoincashkit'
+    namespace 'io.dexnet.bitcoincashkit'
     compileSdk 34
 
     defaultConfig {

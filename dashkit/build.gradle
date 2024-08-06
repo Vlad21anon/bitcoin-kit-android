@@ -16,7 +16,7 @@ afterEvaluate {
 }
 
 android {
-    namespace 'io.horizontalsystems.dashkit'
+    namespace 'io.dexnet.dashkit'
     compileSdk 34
 
     defaultConfig {

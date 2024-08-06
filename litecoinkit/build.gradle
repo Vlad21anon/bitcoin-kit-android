@@ -16,7 +16,7 @@ afterEvaluate {
 }
 
 android {
-    namespace 'io.horizontalsystems.litecoinkit'
+    namespace 'io.dexnet.litecoinkit'
     compileSdk 34
 
     defaultConfig {
